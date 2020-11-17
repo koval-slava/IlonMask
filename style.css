@@ -1,0 +1,39 @@
+#ilon1{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+#ilon2{
+    position: absolute;
+    top: 374px;
+    left: 1050px;
+    height: 311px;
+    width: 516px;
+}
+#ilon3{
+    position: absolute;
+    top: 20px;
+    left: 1050px;
+    height: 100px;
+    width: 150px;
+}
+#ilon4{
+    position: absolute;
+    top: 20px;
+    left: 1220px;
+    height: 100px;
+    width: 150px;
+
+}
+#ilon5{
+    position: absolute;
+    top: 20px;
+    left: 1400px;
+    height: 100px;
+    width: 150px;
+
+}
+#ilon{
+    position: absolute;
+    top: 660px;
+}
